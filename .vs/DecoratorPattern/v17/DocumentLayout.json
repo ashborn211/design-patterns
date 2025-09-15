@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\vanilla_sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\vanilla_sugar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\whip.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\white_chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\white_chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\beverages\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:beverages\\chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\whiskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\whiskey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\syrup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\syrup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\steamed_milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\steamed_milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\mocha.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\milk_foam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\milk_foam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\liqour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\liqour.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\lemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\lemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\ice_cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\ice_cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\ice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\honey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\honey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\half milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\half milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\black_chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\black_chocolate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\cream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:beverages\\water.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:condiments\\condimentdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Beverage.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Beverage.cs",
+              "RelativeDocumentMoniker": "Beverages\\Beverage.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Beverage.cs",
+              "RelativeToolTip": "Beverages\\Beverage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:26.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Chocolate.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Chocolate.cs",
+              "RelativeDocumentMoniker": "Beverages\\Chocolate.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Chocolate.cs",
+              "RelativeToolTip": "Beverages\\Chocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:25.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Espresso.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Espresso.cs",
+              "RelativeDocumentMoniker": "Beverages\\Espresso.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Espresso.cs",
+              "RelativeToolTip": "Beverages\\Espresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:24.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Water.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Water.cs",
+              "RelativeDocumentMoniker": "Beverages\\Water.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Water.cs",
+              "RelativeToolTip": "Beverages\\Water.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Black_chocolate.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Black_chocolate.cs",
+              "RelativeDocumentMoniker": "Condiments\\Black_chocolate.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Black_chocolate.cs",
+              "RelativeToolTip": "Condiments\\Black_chocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:22.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CondimentDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\CondimentDecorator.cs",
+              "RelativeDocumentMoniker": "Condiments\\CondimentDecorator.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\CondimentDecorator.cs",
+              "RelativeToolTip": "Condiments\\CondimentDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:21.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cream.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Cream.cs",
+              "RelativeDocumentMoniker": "Condiments\\Cream.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Cream.cs",
+              "RelativeToolTip": "Condiments\\Cream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:20.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Half Milk.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Half Milk.cs",
+              "RelativeDocumentMoniker": "Condiments\\Half Milk.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Half Milk.cs",
+              "RelativeToolTip": "Condiments\\Half Milk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:18.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Honey.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Honey.cs",
+              "RelativeDocumentMoniker": "Condiments\\Honey.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Honey.cs",
+              "RelativeToolTip": "Condiments\\Honey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:17.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Ice.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Ice.cs",
+              "RelativeDocumentMoniker": "Condiments\\Ice.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Ice.cs",
+              "RelativeToolTip": "Condiments\\Ice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:16.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Ice_cream.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Ice_cream.cs",
+              "RelativeDocumentMoniker": "Condiments\\Ice_cream.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Ice_cream.cs",
+              "RelativeToolTip": "Condiments\\Ice_cream.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:16.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Lemon.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Lemon.cs",
+              "RelativeDocumentMoniker": "Condiments\\Lemon.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Lemon.cs",
+              "RelativeToolTip": "Condiments\\Lemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:15.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Liqour.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Liqour.cs",
+              "RelativeDocumentMoniker": "Condiments\\Liqour.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Liqour.cs",
+              "RelativeToolTip": "Condiments\\Liqour.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:14.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Milk_Foam.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Milk_Foam.cs",
+              "RelativeDocumentMoniker": "Condiments\\Milk_Foam.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Milk_Foam.cs",
+              "RelativeToolTip": "Condiments\\Milk_Foam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:14.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Mocha.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Mocha.cs",
+              "RelativeDocumentMoniker": "Condiments\\Mocha.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Mocha.cs",
+              "RelativeToolTip": "Condiments\\Mocha.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:13.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Steamed_milk.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Steamed_milk.cs",
+              "RelativeDocumentMoniker": "Condiments\\Steamed_milk.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Steamed_milk.cs",
+              "RelativeToolTip": "Condiments\\Steamed_milk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:13.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Syrup.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Syrup.cs",
+              "RelativeDocumentMoniker": "Condiments\\Syrup.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Syrup.cs",
+              "RelativeToolTip": "Condiments\\Syrup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:12.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vanilla_Sugar.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Vanilla_Sugar.cs",
+              "RelativeDocumentMoniker": "Condiments\\Vanilla_Sugar.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Vanilla_Sugar.cs",
+              "RelativeToolTip": "Condiments\\Vanilla_Sugar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Whip.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Whip.cs",
+              "RelativeDocumentMoniker": "Condiments\\Whip.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Whip.cs",
+              "RelativeToolTip": "Condiments\\Whip.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:11.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Whiskey.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Whiskey.cs",
+              "RelativeDocumentMoniker": "Condiments\\Whiskey.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Whiskey.cs",
+              "RelativeToolTip": "Condiments\\Whiskey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:10.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "White_chocolate.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\White_chocolate.cs",
+              "RelativeDocumentMoniker": "Condiments\\White_chocolate.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\White_chocolate.cs",
+              "RelativeToolTip": "Condiments\\White_chocolate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:09.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-15T12:19:06.634Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
