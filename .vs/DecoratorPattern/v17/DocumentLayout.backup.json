@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|DecoratorPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -114,13 +114,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Espresso.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Espresso.cs",
               "RelativeDocumentMoniker": "Beverages\\Espresso.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Espresso.cs",
               "RelativeToolTip": "Beverages\\Espresso.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCIAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T12:19:24.465Z",
               "EditorCaption": ""
@@ -201,13 +201,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T12:19:06.634Z",
               "EditorCaption": ""

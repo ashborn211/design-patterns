@@ -28,3 +28,18 @@ C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design 
 C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.pdb
 C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
 C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\DecoratorPattern\obj\Debug\net6.0\ref\DecoratorPattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\DecoratorPattern.exe
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\DecoratorPattern.deps.json
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\DecoratorPattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.sourcelink.json
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\refint\DecoratorPattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\ref\DecoratorPattern.dll

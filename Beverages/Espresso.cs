@@ -22,13 +22,31 @@ namespace DecoratorPattern.Beverages
             }
             return description;
         }
+
         public override double cost()
         {
+            double basePrice;
+            switch (Size)
+            {
+                case Size.TALL:
+                    basePrice = 2.99;
+                    break;
+                case Size.GRANDE:
+                    basePrice = 3.49;
+                    break;
+                case Size.VENDI:
+                    basePrice = 4.99;
+                    break;
+                default:
+                    basePrice = 1.99;
+                    break;
+            }
+
             if (baseBeverage != null)
             {
-                return 1.99 + baseBeverage.cost();
+                return basePrice + baseBeverage.cost();
             }
-            return 1.99;
+            return basePrice;
         }
     }
 }
