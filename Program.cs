@@ -15,7 +15,6 @@ namespace DecoratorPattern
             // 2. Doppio 
             Beverage doppio = new Espresso();
             doppio = new Espresso();
-            doppio = new Espresso();
             doppio.Size = Size.GRANDE;
             PrintBeverage(doppio);
 
