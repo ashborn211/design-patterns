@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\DecoratorPattern.csproj",
-      "projectName": "DecoratorPattern",
-      "projectPath": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\DecoratorPattern.csproj",
+      "projectUniqueName": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Factory Pattern.csproj",
+      "projectName": "Factory Pattern",
+      "projectPath": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Factory Pattern.csproj",
       "packagesPath": "C:\\Users\\velic\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\obj\\",
       "projectStyle": "PackageReference",
