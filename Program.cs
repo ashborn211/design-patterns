@@ -1,5 +1,6 @@
 ﻿using DecoratorPattern.Beverages;
 using DecoratorPattern.Factory;
+using DecoratorPattern.Store;
 
 namespace DecoratorPattern
 {
@@ -7,41 +8,41 @@ namespace DecoratorPattern
     {
         static void Main(string[] args)
         {
-            PrintBeverage(BeverageFactory.Create("espresso", Size.TALL));
-            PrintBeverage(BeverageFactory.Create("doppio", Size.GRANDE));
-            PrintBeverage(BeverageFactory.Create("lungo", Size.VENDI));
-            PrintBeverage(BeverageFactory.Create("ristretto", Size.TALL));
-            PrintBeverage(BeverageFactory.Create("macchiato", Size.GRANDE));
-            PrintBeverage(BeverageFactory.Create("corretto", Size.VENDI));
-            PrintBeverage(BeverageFactory.Create("con panna"));
-            PrintBeverage(BeverageFactory.Create("cappuccino", Size.GRANDE));
-            PrintBeverage(BeverageFactory.Create("americano"));
-            PrintBeverage(BeverageFactory.Create("latte"));
-            PrintBeverage(BeverageFactory.Create("flat white"));
-            PrintBeverage(BeverageFactory.Create("romano", Size.TALL));
-            PrintBeverage(BeverageFactory.Create("marocchino"));
-            PrintBeverage(BeverageFactory.Create("mocha"));
-            PrintBeverage(BeverageFactory.Create("bicerin", Size.VENDI));
-            PrintBeverage(BeverageFactory.Create("breve"));
-            PrintBeverage(BeverageFactory.Create("raf"));
-            PrintBeverage(BeverageFactory.Create("mead raf", Size.TALL));
-            PrintBeverage(BeverageFactory.Create("galao"));
-            PrintBeverage(BeverageFactory.Create("affogato"));
-            PrintBeverage(BeverageFactory.Create("vienna", Size.GRANDE));
-            PrintBeverage(BeverageFactory.Create("glace"));
-            PrintBeverage(BeverageFactory.Create("chocolate milk"));
-            PrintBeverage(BeverageFactory.Create("demi-crème"));
-            PrintBeverage(BeverageFactory.Create("latte macchiato"));
-            PrintBeverage(BeverageFactory.Create("freddo", Size.TALL));
-            PrintBeverage(BeverageFactory.Create("frappuccino"));
-            PrintBeverage(BeverageFactory.Create("caramel frappuccino"));
-            PrintBeverage(BeverageFactory.Create("frappe"));
-            PrintBeverage(BeverageFactory.Create("irish coffee"));
-        }
+            // Explicitly typed variables
+            SimpleCoffeeFactory factory = new SimpleCoffeeFactory();
+            CoffeeStore store = new CoffeeStore();
 
-        static void PrintBeverage(Beverage beverage)
-        {
-            Console.WriteLine($"{beverage.GetDescription()} Size:{beverage.Size} ${beverage.cost():0.##}");
+            // All 30 coffees
+            store.OrderCoffee("espresso", Size.TALL);
+            store.OrderCoffee("doppio", Size.GRANDE);
+            store.OrderCoffee("lungo", Size.VENDI);
+            store.OrderCoffee("ristretto", Size.TALL);
+            store.OrderCoffee("macchiato", Size.GRANDE);
+            store.OrderCoffee("corretto", Size.VENDI);
+            store.OrderCoffee("con panna");
+            store.OrderCoffee("cappuccino", Size.GRANDE);
+            store.OrderCoffee("americano");
+            store.OrderCoffee("latte");
+            store.OrderCoffee("flat white");
+            store.OrderCoffee("romano", Size.TALL);
+            store.OrderCoffee("marocchino");
+            store.OrderCoffee("mocha");
+            store.OrderCoffee("bicerin", Size.VENDI);
+            store.OrderCoffee("breve");
+            store.OrderCoffee("raf");
+            store.OrderCoffee("mead raf", Size.TALL);
+            store.OrderCoffee("galao");
+            store.OrderCoffee("affogato");
+            store.OrderCoffee("vienna", Size.GRANDE);
+            store.OrderCoffee("glace");
+            store.OrderCoffee("chocolate milk");
+            store.OrderCoffee("demi-crème");
+            store.OrderCoffee("latte macchiato");
+            store.OrderCoffee("freddo", Size.TALL);
+            store.OrderCoffee("frappuccino");
+            store.OrderCoffee("caramel frappuccino");
+            store.OrderCoffee("frappe");
+            store.OrderCoffee("irish coffee");
         }
     }
 }

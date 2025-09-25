@@ -1,0 +1,15 @@
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\Factory Pattern.exe
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\Factory Pattern.deps.json
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\Factory Pattern.runtimeconfig.json
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\Factory Pattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\Factory Pattern.pdb
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\Factory Pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\Factory Pattern.AssemblyInfoInputs.cache
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\Factory Pattern.AssemblyInfo.cs
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\Factory Pattern.csproj.CoreCompileInputs.cache
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\Factory Pattern.sourcelink.json
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\Factory Pattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\refint\Factory Pattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\Factory Pattern.pdb
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\Factory Pattern.genruntimeconfig.cache
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\ref\Factory Pattern.dll
