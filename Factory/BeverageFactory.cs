@@ -11,125 +11,110 @@ namespace DecoratorPattern.Factory
 
             switch (beverageName.ToLower())
             {
-                // 1. Espresso
+                // 1
                 case "espresso":
                     drink = new Espresso();
                     drink.Size = size;
                     break;
 
-                // 2. Doppio (double/triple espresso)
+                // 2
                 case "doppio":
                     drink = new Espresso();
                     drink = new Espresso(drink);
-                    drink.Size = size;
                     break;
 
-                // 3. Lungo
+                // 3
                 case "lungo":
                     drink = new Espresso();
                     drink = new Water(drink);
-                    drink.Size = size;
                     break;
 
-                // 4. Ristretto
+                // 4
                 case "ristretto":
                     drink = new Espresso();
-                    drink.Size = size;
                     break;
 
-                // 5. Macchiato
+                // 5
                 case "macchiato":
                     drink = new Espresso();
                     drink = new Milk_Foam(drink);
-                    drink.Size = size;
                     break;
 
-                // 6. Corretto
+                // 6
                 case "corretto":
                     drink = new Espresso();
                     drink = new Liqour(drink);
-                    drink.Size = size;
                     break;
 
-                // 7. Con Panna
+                // 7
                 case "con panna":
                     drink = new Espresso();
                     drink = new Whip(drink);
-                    drink.Size = size;
                     break;
 
-                // 8. Cappuccino
+                // 8
                 case "cappuccino":
                     drink = new Espresso();
                     drink = new Half_Milk(drink);
                     drink = new Milk_Foam(drink);
-                    drink.Size = size;
                     break;
 
-                // 9. Americano
+                // 9
                 case "americano":
                     drink = new Espresso();
                     drink = new Water(drink);
                     drink = new Water(drink);
-                    drink.Size = size;
                     break;
 
-                // 10. Caffè Latte
+                // 10
                 case "latte":
                     drink = new Espresso();
                     drink = new Half_Milk(drink);
                     drink = new Milk_Foam(drink);
-                    drink.Size = size;
                     break;
 
-                // 11. Flat White
+                // 11
                 case "flat white":
                     drink = new Espresso();
                     drink = new Half_Milk(drink);
-                    drink.Size = size;
                     break;
 
-                // 12. Romano
+                // 12
                 case "romano":
                     drink = new Espresso();
                     drink = new Lemon(drink);
-                    drink.Size = size;
                     break;
 
-                // 13. Marocchino
+                // 13
                 case "marocchino":
                     drink = new Espresso();
                     drink = new Chocolate(drink);
                     drink = new Milk_Foam(drink);
-                    drink.Size = size;
                     break;
 
-                // 14. Mocha
+                // 14
                 case "mocha":
                     drink = new Espresso();
                     drink = new Chocolate(drink);
                     drink = new Half_Milk(drink);
                     drink = new Whip(drink);
-                    drink.Size = size;
                     break;
 
-                // 15. Bicerin
+                // 15
                 case "bicerin":
                     drink = new Espresso();
                     drink = new Chocolate(drink);
                     drink = new Whip(drink);
-                    drink.Size = size;
                     break;
 
-                // 16. Breve
+                // 16
                 case "breve":
                     drink = new Espresso();
                     drink = new Half_Milk(drink);
                     drink = new Milk_Foam(drink);
-                    drink.Size = size;
                     break;
 
-                // 17. Raf Coffee
+                // 17
                 case "raf":
                     drink = new Espresso();
                     drink = new Cream(drink);
@@ -137,74 +122,72 @@ namespace DecoratorPattern.Factory
                     drink.Size = size;
                     break;
 
-                // 18. Mead Raf
+                // 18
                 case "mead raf":
                     drink = new Espresso();
                     drink = new Cream(drink);
                     drink = new Honey(drink);
-                    drink.Size = size;
                     break;
 
-                // 19. Galao
+                // 19
                 case "galao":
                     drink = new Espresso();
                     drink = new Milk_Foam(drink);
-
                     break;
 
-                // 20. Affogato
+                // 20
                 case "affogato":
                     drink = new Espresso();
                     drink = new Ice_cream(drink);
                     break;
 
-                // 21. Vienna
+                // 21
                 case "vienna":
                     drink = new Espresso();
                     drink = new Whip(drink);
                     break;
 
-                // 22. Glace
+                // 22
                 case "glace":
                     drink = new Espresso();
                     drink = new Ice_cream(drink);
                     break;
 
-                // 23. Chocolate Milk
+                // 23
                 case "chocolate milk":
                     drink = new Espresso();
                     drink = new Half_Milk(drink);
                     drink = new Black_chocolate(drink);
                     break;
 
-                // 24. Demi-Crème
-                case "demi-crème":
+                // 24
+                case "demi crème":
                     drink = new Espresso();
                     drink = new Cream(drink);
                     break;
 
-                // 25. Latte Macchiato
+                // 25
                 case "latte macchiato":
                     drink = new Espresso();
                     drink = new Half_Milk(drink);
                     drink = new Milk_Foam(drink);
                     break;
 
-                // 26. Freddo
+                // 26
                 case "freddo":
                     drink = new Espresso();
                     drink = new Liqour(drink);
                     drink = new Ice(drink);
                     break;
 
-                // 27. Frappuccino
+                // 27
                 case "frappuccino":
                     drink = new Espresso();
                     drink = new Half_Milk(drink);
                     drink = new Whip(drink);
                     break;
 
-                // 28. Caramel Frappuccino
+                // 28
                 case "caramel frappuccino":
                     drink = new Espresso();
                     drink = new Half_Milk(drink);
@@ -212,14 +195,14 @@ namespace DecoratorPattern.Factory
                     drink = new Cream(drink);
                     break;
 
-                // 29. Frappe
+                // 29
                 case "frappe":
                     drink = new Espresso();
                     drink = new Half_Milk(drink);
                     drink = new Ice_cream(drink);
                     break;
 
-                // 30. Irish Coffee
+                // 30
                 case "irish coffee":
                     drink = new Espresso();
                     drink = new Whiskey(drink);
@@ -229,8 +212,6 @@ namespace DecoratorPattern.Factory
                 default:
                     throw new ArgumentException($"Unknown beverage: {beverageName}");
             }
-
-            // set size
             drink.Size = size;
             return drink;
         }

@@ -7,20 +7,16 @@
       "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|solutionrelative:beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\store\\coffeestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|solutionrelative:store\\coffeestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\factory\\simplecoffeefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|solutionrelative:factory\\simplecoffeefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\factory\\beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|solutionrelative:factory\\beveragefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|solutionrelative:beverages\\beverage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0C08F8C1-96E5-4740-AC2C-923D4CF8E210}|Factory Pattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\beverages\\espresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -122,46 +118,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CoffeeStore.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Store\\CoffeeStore.cs",
               "RelativeDocumentMoniker": "Store\\CoffeeStore.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Store\\CoffeeStore.cs",
               "RelativeToolTip": "Store\\CoffeeStore.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T13:07:27.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "SimpleCoffeeFactory.cs",
-              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Factory\\SimpleCoffeeFactory.cs",
-              "RelativeDocumentMoniker": "Factory\\SimpleCoffeeFactory.cs",
-              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Factory\\SimpleCoffeeFactory.cs",
-              "RelativeToolTip": "Factory\\SimpleCoffeeFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T13:02:12.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "BeverageFactory.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Factory\\BeverageFactory.cs",
               "RelativeDocumentMoniker": "Factory\\BeverageFactory.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Factory\\BeverageFactory.cs",
               "RelativeToolTip": "Factory\\BeverageFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "ViewState": "AgIAALcAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T12:42:21.937Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "Lemon.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Lemon.cs",
               "RelativeDocumentMoniker": "Condiments\\Lemon.cs",
@@ -173,20 +156,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Beverage.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Beverage.cs",
               "RelativeDocumentMoniker": "Beverages\\Beverage.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Beverage.cs",
               "RelativeToolTip": "Beverages\\Beverage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAD4vyUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T12:19:26.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Whip.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Whip.cs",
               "RelativeDocumentMoniker": "Condiments\\Whip.cs",
@@ -198,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "CondimentDecorator.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\CondimentDecorator.cs",
               "RelativeDocumentMoniker": "Condiments\\CondimentDecorator.cs",
@@ -210,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Liqour.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Liqour.cs",
               "RelativeDocumentMoniker": "Condiments\\Liqour.cs",
@@ -228,14 +211,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T12:19:06.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Chocolate.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Chocolate.cs",
               "RelativeDocumentMoniker": "Beverages\\Chocolate.cs",
@@ -243,12 +226,11 @@
               "RelativeToolTip": "Beverages\\Chocolate.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T12:19:25.668Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T12:19:25.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "Mocha.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Mocha.cs",
               "RelativeDocumentMoniker": "Condiments\\Mocha.cs",
@@ -260,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Water.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Water.cs",
               "RelativeDocumentMoniker": "Beverages\\Water.cs",
@@ -268,12 +250,11 @@
               "RelativeToolTip": "Beverages\\Water.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAcwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T12:19:23.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T12:19:23.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Espresso.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Beverages\\Espresso.cs",
               "RelativeDocumentMoniker": "Beverages\\Espresso.cs",
@@ -281,12 +262,11 @@
               "RelativeToolTip": "Beverages\\Espresso.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T12:19:24.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T12:19:24.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "Ice_cream.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Ice_cream.cs",
               "RelativeDocumentMoniker": "Condiments\\Ice_cream.cs",
@@ -298,7 +278,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "Half Milk.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Half Milk.cs",
               "RelativeDocumentMoniker": "Condiments\\Half Milk.cs",
@@ -310,7 +290,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "White_chocolate.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\White_chocolate.cs",
               "RelativeDocumentMoniker": "Condiments\\White_chocolate.cs",
@@ -322,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "Ice.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Ice.cs",
               "RelativeDocumentMoniker": "Condiments\\Ice.cs",
@@ -334,7 +314,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Honey.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Honey.cs",
               "RelativeDocumentMoniker": "Condiments\\Honey.cs",
@@ -346,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "Cream.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Cream.cs",
               "RelativeDocumentMoniker": "Condiments\\Cream.cs",
@@ -358,7 +338,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "Black_chocolate.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Black_chocolate.cs",
               "RelativeDocumentMoniker": "Condiments\\Black_chocolate.cs",
@@ -370,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "Milk_Foam.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Milk_Foam.cs",
               "RelativeDocumentMoniker": "Condiments\\Milk_Foam.cs",
@@ -382,7 +362,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "Steamed_milk.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Steamed_milk.cs",
               "RelativeDocumentMoniker": "Condiments\\Steamed_milk.cs",
@@ -394,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "Syrup.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Syrup.cs",
               "RelativeDocumentMoniker": "Condiments\\Syrup.cs",
@@ -406,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "Vanilla_Sugar.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Vanilla_Sugar.cs",
               "RelativeDocumentMoniker": "Condiments\\Vanilla_Sugar.cs",
@@ -418,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Whiskey.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Condiments\\Whiskey.cs",
               "RelativeDocumentMoniker": "Condiments\\Whiskey.cs",
