@@ -43,3 +43,18 @@ C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net
 C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.pdb
 C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
 C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\ref\DecoratorPattern.dll
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\DecoratorPattern.exe
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\DecoratorPattern.deps.json
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\DecoratorPattern.dll
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\DecoratorPattern.sourcelink.json
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\DecoratorPattern.dll
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\refint\DecoratorPattern.dll
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\ref\DecoratorPattern.dll
