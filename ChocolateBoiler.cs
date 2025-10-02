@@ -4,48 +4,73 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Singleton
+namespace SingletonPattern
 {
     internal class ChocolateBoiler
     {
         private bool empty;
         private bool boiled;
 
-        public bool IsEmpty { get { return this.empty; } }
-        public bool IsBoiled { get { return this.boiled; } }
 
-        // This code is only started when the boiler is empty
-        public ChocolateBoiler()
+        // Single instance
+        private volatile static ChocolateBoiler instance;
+
+
+        // Lock object for thread safety
+        private static readonly object lockObject = new object();
+
+
+        // Private constructor
+        private ChocolateBoiler()
         {
             empty = true;
             boiled = false;
         }
-        // To fill the boiler it must be empty and once it is full, we set the empty and boiled flag
-        public void fill()
+
+        // Public method to get the single instance
+        public static ChocolateBoiler GetInstance()
         {
-            if(empty)
+            if (instance == null) // 1st check
             {
+                lock (lockObject) // Only one thread at a time can enter
+                {
+                    if (instance == null) // 2nd check inside lock
+                    {
+                        instance = new ChocolateBoiler(); // Create the single instance
+                    }
+                }
+            }
+            return instance; // Return the singleton instance
+        }
+
+        public void Fill()
+        {
+            if (empty)
+            {
+
                 empty = false;
                 boiled = false;
+                Console.WriteLine("Boiler filled.");
             }
         }
-        // To drain the boiler, it must be full (non empty) and also boiled.
-        // Once it is drained we set empty back to true
-        public void drain()
+
+        public void Boil()
         {
-            if(!empty && boiled)
-            {
-                empty = true;
-            }
-        }
-        // To boil the mixture, the boiler has to be full and not already boiled.
-        // Once it is boiled we set the boiled flag to true
-        public void boil()
-        {
-            if(!empty && !boiled)
+            if (!empty && !boiled)
             {
                 boiled = true;
+                Console.WriteLine("Boiler boiled.");
+            }
+        }
+
+        public void Drain()
+        {
+            if (!empty && boiled)
+            {
+                empty = true;
+                Console.WriteLine("Boiler drained.");
             }
         }
     }
 }
+

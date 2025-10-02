@@ -28,3 +28,18 @@ C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design 
 C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\Singleton\obj\Debug\net6.0\SingletonPattern.pdb
 C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\Singleton\obj\Debug\net6.0\SingletonPattern.genruntimeconfig.cache
 C:\Users\rnieuwkoop\OneDrive - ROC Nijmegen\Software Development\API 3 - Design Patterns\Source code\DesignPatterns\Singleton\obj\Debug\net6.0\ref\SingletonPattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\SingletonPattern.exe
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\SingletonPattern.deps.json
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\SingletonPattern.runtimeconfig.json
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\SingletonPattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\bin\Debug\net6.0\SingletonPattern.pdb
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\SingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\SingletonPattern.AssemblyInfoInputs.cache
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\SingletonPattern.AssemblyInfo.cs
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\SingletonPattern.sourcelink.json
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\SingletonPattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\refint\SingletonPattern.dll
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\SingletonPattern.pdb
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\SingletonPattern.genruntimeconfig.cache
+C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\ref\SingletonPattern.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l+6JdFkI4Qsp5hQam40zR/L+UESKjz8cbwDMiLLe84j84labPjjGYXCBmreTJNXTpWpODedVD7NmW+iV93Cj5Q==",
+  "dgSpecHash": "NfDvWbG+xZk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rnieuwkoop\\OneDrive - ROC Nijmegen\\Software Development\\API 3 - Design Patterns\\Source code\\DesignPatterns\\Singleton\\SingletonPattern.csproj",
+  "projectFilePath": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\SingletonPattern.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
