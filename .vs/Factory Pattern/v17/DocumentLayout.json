@@ -126,8 +126,7 @@
               "RelativeToolTip": "Store\\CoffeeStore.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T13:07:27.152Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T13:07:27.152Z"
             },
             {
               "$type": "Document",
@@ -139,8 +138,7 @@
               "RelativeToolTip": "Factory\\BeverageFactory.cs",
               "ViewState": "AgIAALcAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T12:42:21.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T12:42:21.937Z"
             },
             {
               "$type": "Document",
@@ -164,8 +162,7 @@
               "RelativeToolTip": "Beverages\\Beverage.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAD4vyUAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-15T12:19:26.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-15T12:19:26.523Z"
             },
             {
               "$type": "Document",
@@ -211,7 +208,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-15T12:19:06.634Z",
               "EditorCaption": ""
