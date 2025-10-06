@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\tuner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:tuner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\theaterlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:theaterlights.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:screen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:projector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\popcornpopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:popcornpopper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\lawofdementer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:lawofdementer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\hometheaterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:hometheaterfacade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\dvdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:dvdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\cdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:cdplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\amplifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5547AE0B-D229-4D92-B957-79F72E9875C2}|FacadePattern.csproj|solutionrelative:amplifier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeTheaterFacade.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\HomeTheaterFacade.cs",
+              "RelativeDocumentMoniker": "HomeTheaterFacade.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\HomeTheaterFacade.cs",
+              "RelativeToolTip": "HomeTheaterFacade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:15:23.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Amplifier.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Amplifier.cs",
+              "RelativeDocumentMoniker": "Amplifier.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Amplifier.cs",
+              "RelativeToolTip": "Amplifier.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:21.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CdPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\CdPlayer.cs",
+              "RelativeDocumentMoniker": "CdPlayer.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\CdPlayer.cs",
+              "RelativeToolTip": "CdPlayer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:19.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DvdPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\DvdPlayer.cs",
+              "RelativeDocumentMoniker": "DvdPlayer.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\DvdPlayer.cs",
+              "RelativeToolTip": "DvdPlayer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:18.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LawOfDementer.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\LawOfDementer.cs",
+              "RelativeDocumentMoniker": "LawOfDementer.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\LawOfDementer.cs",
+              "RelativeToolTip": "LawOfDementer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:17.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PopcornPopper.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\PopcornPopper.cs",
+              "RelativeDocumentMoniker": "PopcornPopper.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\PopcornPopper.cs",
+              "RelativeToolTip": "PopcornPopper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:16.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:15.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Projector.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Projector.cs",
+              "RelativeDocumentMoniker": "Projector.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Projector.cs",
+              "RelativeToolTip": "Projector.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:14.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Screen.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Screen.cs",
+              "RelativeDocumentMoniker": "Screen.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Screen.cs",
+              "RelativeToolTip": "Screen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:13.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheaterLights.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\TheaterLights.cs",
+              "RelativeDocumentMoniker": "TheaterLights.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\TheaterLights.cs",
+              "RelativeToolTip": "TheaterLights.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:12.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tuner.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Tuner.cs",
+              "RelativeDocumentMoniker": "Tuner.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Tuner.cs",
+              "RelativeToolTip": "Tuner.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T12:09:08.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
