@@ -7,46 +7,43 @@ namespace DecoratorPattern
     {
         static void Main(string[] args)
         {
-            CoffeeStore store = new CoffeeStore();
+            StarbuzzCoffeeStore store = new StarbuzzCoffeeStore(); // concrete store
 
-            Console.WriteLine("Welcome to the Coffee Store!");
-            Console.WriteLine("Here is our menu with all available coffee types and sizes:\n");
-            //menu
-            store.ShowAllCoffee("espresso");
-            store.ShowAllCoffee("doppio");
-            store.ShowAllCoffee("lungo");
-            store.ShowAllCoffee("ristretto");
-            store.ShowAllCoffee("macchiato");
-            store.ShowAllCoffee("corretto");
-            store.ShowAllCoffee("con panna");
-            store.ShowAllCoffee("cappuccino");
-            store.ShowAllCoffee("americano");
-            store.ShowAllCoffee("latte");
-            store.ShowAllCoffee("flat white");
-            store.ShowAllCoffee("romano");
-            store.ShowAllCoffee("marocchino");
-            store.ShowAllCoffee("mocha");
-            store.ShowAllCoffee("bicerin");
-            store.ShowAllCoffee("breve");
-            store.ShowAllCoffee("raf");
-            store.ShowAllCoffee("mead raf");
-            store.ShowAllCoffee("galao");
-            store.ShowAllCoffee("affogato");
-            store.ShowAllCoffee("vienna");
-            store.ShowAllCoffee("glace");
-            store.ShowAllCoffee("chocolate milk");
-            store.ShowAllCoffee("demi crème");
-            store.ShowAllCoffee("latte macchiato");
-            store.ShowAllCoffee("freddo");
-            store.ShowAllCoffee("frappuccino");
-            store.ShowAllCoffee("caramel frappuccino");
-            store.ShowAllCoffee("frappe");
-            store.ShowAllCoffee("irish coffee");
+            Console.WriteLine("Welcome to Starbuzz");
+            Console.WriteLine("Here is our menu with all available coffee types and sizes:");
+
+            store.ShowAllSize("espresso");
+            store.ShowAllSize("doppio");
+            store.ShowAllSize("lungo");
+            store.ShowAllSize("ristretto");
+            store.ShowAllSize("macchiato");
+            store.ShowAllSize("corretto");
+            store.ShowAllSize("con panna");
+            store.ShowAllSize("cappuccino");
+            store.ShowAllSize("americano");
+            store.ShowAllSize("latte");
+            store.ShowAllSize("flat white");
+            store.ShowAllSize("romano");
+            store.ShowAllSize("marocchino");
+            store.ShowAllSize("mocha");
+            store.ShowAllSize("bicerin");
+            store.ShowAllSize("breve");
+            store.ShowAllSize("raf");
+            store.ShowAllSize("mead raf");
+            store.ShowAllSize("galao");
+            store.ShowAllSize("affogato");
+            store.ShowAllSize("vienna");
+            store.ShowAllSize("glace");
+            store.ShowAllSize("chocolate milk");
+            store.ShowAllSize("demi crème");
+            store.ShowAllSize("latte macchiato");
+            store.ShowAllSize("freddo");
+            store.ShowAllSize("frappuccino");
+            store.ShowAllSize("caramel frappuccino");
+            store.ShowAllSize("frappe");
+            store.ShowAllSize("irish coffee");
 
             Console.WriteLine("\nNow ordering coffee:\n");
-            Console.WriteLine("-------------------------------------------------");
-
-            // Order
             store.OrderCoffee("espresso", Size.TALL);
             store.OrderCoffee("doppio", Size.GRANDE);
             store.OrderCoffee("lungo", Size.VENDI);

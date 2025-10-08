@@ -1,35 +1,13 @@
 ﻿using DecoratorPattern.Beverages;
-using DecoratorPattern.Factory;
 
 namespace DecoratorPattern.Store
 {
-    internal class CoffeeStore
+    internal abstract class CoffeeStore
     {
-        public CoffeeStore() { }
-
-        private void PrepareCoffee()
+        // Template Method
+        public Beverage OrderCoffee(string type, Size size)
         {
-            Console.WriteLine("Grinding beans");
-        }
-
-        private void BrewCoffee()
-        {
-            Console.WriteLine("Brewing coffee");
-        }
-
-        private void PourInCup()
-        {
-            Console.WriteLine("Pouring coffee into cup");
-        }
-
-        private void AddCondiments()
-        {
-            Console.WriteLine("Adding condiments");
-        }
-
-        private Beverage ServeCoffee(string type, Size size)
-        {
-            Beverage coffee = BeverageFactory.Create(type, size);
+            Beverage beverage = CreateBeverage(type, size);
 
             Console.WriteLine($"\n--- {type.ToUpper()} ---");
             PrepareCoffee();
@@ -37,24 +15,44 @@ namespace DecoratorPattern.Store
             PourInCup();
             AddCondiments();
 
-            Console.WriteLine($"{coffee.GetDescription()} | Size: {coffee.Size} | Price: ${coffee.cost():0.##}");
+            Console.WriteLine($"{beverage.GetDescription()} | Size: {beverage.Size} | Price: ${beverage.cost():0.##}");
             Console.WriteLine("-------------------------------------------------");
 
-            return coffee;
+            return beverage;
         }
 
-        public void OrderCoffee(string type, Size size)
+        // Abstract factory method
+        protected abstract Beverage CreateBeverage(string type, Size size);
+
+        // Workflow steps with full method bodies
+        protected void PrepareCoffee()
         {
-            ServeCoffee(type, size);
+            Console.WriteLine("Grinding beans...");
         }
 
-        public void ShowAllCoffee(string type)
+        protected void BrewCoffee()
         {
-            Console.WriteLine($"\n--- {type.ToUpper()} MENU ---");
+            Console.WriteLine("Brewing coffee...");
+        }
+
+        protected void PourInCup()
+        {
+            Console.WriteLine("Pouring coffee into cup...");
+        }
+
+        protected virtual void AddCondiments()
+        {
+            Console.WriteLine("Adding condiments...");
+        }
+
+        // Show all sizes without serving
+        public void ShowAllSize(string type)
+        {
+            Console.WriteLine($"\n### {type.ToUpper()} MENU ###");
 
             foreach (Size size in Enum.GetValues(typeof(Size)))
             {
-                Beverage coffee = BeverageFactory.Create(type, size);
+                Beverage coffee = CreateBeverage(type, size);
                 Console.WriteLine($"{coffee.GetDescription()} | Size: {size} | Price: ${coffee.cost():0.##}");
             }
 
