@@ -8,35 +8,42 @@ namespace FacadePattern
 {
     internal class CdPlayer
     {
-        private Amplifier _amplifier;
+        private Amplifier amplifier;
+
         public CdPlayer(Amplifier amplifier)
         {
-            _amplifier = amplifier;
+            this.amplifier = amplifier;
         }
 
         public void On()
         {
-
+            Console.WriteLine("CD Player on");
         }
+
         public void Off()
         {
-
+            Console.WriteLine("CD Player off");
         }
+
         public void Eject()
         {
-
+            Console.WriteLine("CD Player eject");
         }
-        public void Pause()
-        {
 
-        }
         public void Play()
         {
-
+            Console.WriteLine("CD Player playing");
         }
+
+        public void Pause()
+        {
+            Console.WriteLine("CD Player paused");
+        }
+
         public void Stop()
         {
-
+            Console.WriteLine("CD Player stopped");
         }
     }
 }
+

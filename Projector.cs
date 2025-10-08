@@ -8,34 +8,38 @@ namespace FacadePattern
 {
     internal class Projector
     {
-        private DvdPlayer _dvdPlayer;
-        public Projector()
-        {
-        }
+        private DvdPlayer dvdPlayer;
 
-        public void SetInput(DvdPlayer dvdPlayer)
+        public Projector(DvdPlayer dvdPlayer)
         {
-            this._dvdPlayer = dvdPlayer;
+            this.dvdPlayer = dvdPlayer;
         }
 
         public void On()
         {
-
+            Console.WriteLine("Projector on");
         }
 
         public void Off()
         {
-
+            Console.WriteLine("Projector off");
         }
 
         public void TvMode()
         {
-
+            Console.WriteLine("Projector in TV mode");
         }
 
         public void WideScreenMode()
         {
+            Console.WriteLine("Projector in widescreen mode");
+        }
 
+        public void SetInput(DvdPlayer dvdPlayer)
+        {
+            this.dvdPlayer = dvdPlayer;
+            Console.WriteLine("Projector input set to DVD Player");
         }
     }
 }
+

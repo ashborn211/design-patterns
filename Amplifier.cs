@@ -8,43 +8,51 @@ namespace FacadePattern
 {
     internal class Amplifier
     {
-        private Tuner _tuner;
-        private DvdPlayer _dvdPlayer;
-        private CdPlayer _cdPlayer;
+        private Tuner tuner;
+        private DvdPlayer dvdPlayer;
+        private CdPlayer cdPlayer;
 
         public void On()
         {
-
+            Console.WriteLine("Amplifier on");
         }
 
         public void Off()
         {
-
+            Console.WriteLine("Amplifier off");
         }
+
         public void SetCd(CdPlayer cdPlayer)
         {
-            this._cdPlayer = cdPlayer;
+            this.cdPlayer = cdPlayer;
+            Console.WriteLine("Amplifier setting CD player");
         }
+
         public void SetDvd(DvdPlayer dvdPlayer)
         {
-            this._dvdPlayer = dvdPlayer;
+            this.dvdPlayer = dvdPlayer;
+            Console.WriteLine("Amplifier setting DVD player");
         }
-        public void SetStereoSound()
-        {
 
-        }
-        public void SetSurroundSound()
-        {
-
-        }
         public void SetTuner(Tuner tuner)
         {
-            this._tuner = tuner;
+            this.tuner = tuner;
+            Console.WriteLine("Amplifier setting tuner");
         }
+
+        public void SetStereoSound()
+        {
+            Console.WriteLine("Amplifier stereo sound on (2 speakers)");
+        }
+
+        public void SetSurroundSound()
+        {
+            Console.WriteLine("Amplifier surround sound on (5 speakers, 1 subwoofer)");
+        }
+
         public void SetVolume(int volume)
         {
-
+            Console.WriteLine("Amplifier setting volume to " + volume);
         }
-
     }
 }

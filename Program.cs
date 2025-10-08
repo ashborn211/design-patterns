@@ -5,33 +5,22 @@
         static void Main(string[] args)
         {
             Amplifier amp = new Amplifier();
-            CdPlayer cdPlayer = new CdPlayer(amp);
-            DvdPlayer dvdPlayer = new DvdPlayer(amp);
-            PopcornPopper popcornPopper = new PopcornPopper();
-            Projector projector = new Projector();
+            CdPlayer cd = new CdPlayer(amp);
+            DvdPlayer dvd = new DvdPlayer(amp);
+            Tuner tuner = new Tuner(amp);
+            PopcornPopper popper = new PopcornPopper();
             Screen screen = new Screen();
             TheaterLights lights = new TheaterLights();
-            Tuner tuner = new Tuner(amp);
+            Projector projector = new Projector(dvd);
 
+            HomeTheaterFacade homeTheater = new HomeTheaterFacade(
+                amp, tuner, dvd, cd, projector, lights, screen, popper
+            );
 
-            popcornPopper.On();
-            popcornPopper.Pop();
+            homeTheater.WatchMovie("Sonic the Hedgehog");
+            homeTheater.EndMovie();
 
-            lights.Dim(10);
-
-            screen.Down();
-
-            projector.On();
-            projector.SetInput(dvdPlayer);
-            projector.WideScreenMode();
-
-            amp.On();
-            amp.SetDvd(dvdPlayer);
-            amp.SetSurroundSound();
-            amp.SetVolume(5);
-
-            dvdPlayer.On();
-            dvdPlayer.Play("Die Hard");
+            Console.ReadLine();
         }
     }
 }

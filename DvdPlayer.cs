@@ -8,43 +8,52 @@ namespace FacadePattern
 {
     internal class DvdPlayer
     {
-        private Amplifier _amplifier;
+        private Amplifier amplifier;
+
         public DvdPlayer(Amplifier amplifier)
         {
-            _amplifier = amplifier;
+            this.amplifier = amplifier;
         }
 
         public void On()
         {
-
+            Console.WriteLine("DVD Player on");
         }
+
         public void Off()
         {
-
+            Console.WriteLine("DVD Player off");
         }
+
         public void Eject()
         {
-
+            Console.WriteLine("DVD Player eject");
         }
-        public void Pause()
-        {
 
-        }
         public void Play(string movie)
         {
-
+            Console.WriteLine("DVD Player playing \"" + movie + "\"");
         }
-        public void SetSurroundAudio()
+
+        public void Pause()
         {
-
+            Console.WriteLine("DVD Player paused");
         }
-        public void SetTWoChannelAudio()
-        {
 
-        }
         public void Stop()
         {
+            Console.WriteLine("DVD Player stopped");
+        }
 
+        public void SetSurroundAudio()
+        {
+            Console.WriteLine("DVD Player set to surround audio");
+        }
+
+        public void SetTwoChannelAudio()
+        {
+            Console.WriteLine("DVD Player set to two-channel audio");
         }
     }
 }
+
