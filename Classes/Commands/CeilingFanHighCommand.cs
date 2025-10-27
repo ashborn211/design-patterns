@@ -1,16 +1,12 @@
 ﻿using CommandPattern.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace CommandPattern.Classes.Commands
 {
     internal class CeilingFanHighCommand : Command
     {
-        CeilingFan ceilingFan;
-        int prevSpeed;
+        private CeilingFan ceilingFan;
+
         public CeilingFanHighCommand(CeilingFan ceilingFan)
         {
             this.ceilingFan = ceilingFan;
@@ -19,13 +15,14 @@ namespace CommandPattern.Classes.Commands
         public void Execute()
         {
             ceilingFan.High();
-            prevSpeed = ceilingFan.GetSpeed();
-            Console.WriteLine($"Ceiling Fan speed set to {ceilingFan.GetSpeed()}");
+            Console.WriteLine($"Ceiling Fan speed set to HIGH");
         }
 
+        // Your request: Undo should just turn it OFF
         public void Undo()
         {
             ceilingFan.Off();
+            Console.WriteLine("Undo: Ceiling Fan turned OFF.");
         }
     }
 }

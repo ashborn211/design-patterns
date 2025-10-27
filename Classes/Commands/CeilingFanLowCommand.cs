@@ -14,14 +14,20 @@ namespace CommandPattern.Classes.Commands
 
         public CeilingFanLowCommand(CeilingFan ceilingFan)
         {
+            this.ceilingFan = ceilingFan;
+
         }
 
         public void Execute()
         {
+            ceilingFan.Low();
+            Console.WriteLine($"Ceiling Fan speed set to LOW");
         }
 
         public void Undo()
         {
+            ceilingFan.Off();
+            Console.WriteLine("Undo: Ceiling Fan turned OFF.");
         }
     }
 }

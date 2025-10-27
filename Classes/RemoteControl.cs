@@ -1,31 +1,29 @@
 ﻿using CommandPattern.Classes.Commands;
 using CommandPattern.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
 namespace CommandPattern.Classes
 {
     internal class RemoteControl
     {
-        Command[] onCommands = new Command[7];
-        Command[] offCommands = new Command[7];
-        Command undoCommand;
+        private Command[] onCommands = new Command[6];
+        private Command[] offCommands = new Command[6];
+        private Command[] lastCommands = new Command[6]; // per-slot undo tracking
+
         public RemoteControl()
         {
             Command noCommand = new NoCommand();
             for (int i = 0; i < onCommands.Length; i++)
             {
-                onCommands[i] = new NoCommand();
-                offCommands[i] = new NoCommand();
+                onCommands[i] = noCommand;
+                offCommands[i] = noCommand;
+                lastCommands[i] = noCommand;
             }
-            undoCommand = noCommand;
             Console.WriteLine("RemoteControl initialized.");
         }
 
-        // This method must set the On and Off command to the slot provided
+        // Assign commands to a slot
         public void SetCommand(int slot, Command onCommand, Command offCommand)
         {
             onCommands[slot] = onCommand;
@@ -33,35 +31,37 @@ namespace CommandPattern.Classes
             Console.WriteLine($"Slot {slot} set: {onCommand.GetType().Name} / {offCommand.GetType().Name}");
         }
 
-        // This method must call the OnCommand.Execute() method of the slot provided
+        // Executes ON command for the given slot
         public void OnButtonWasPushed(int slot)
         {
             onCommands[slot].Execute();
-            undoCommand = onCommands[slot];
+            lastCommands[slot] = onCommands[slot]; // track last executed for that slot
             Console.WriteLine($"ON button pressed for slot {slot}");
         }
 
-        // This method must call the OffCommand.Execute() method of the slot provided
+        // Executes OFF command for the given slot
         public void OffButtonWasPushed(int slot)
         {
             offCommands[slot].Execute();
-            undoCommand = offCommands[slot];
+            lastCommands[slot] = offCommands[slot];
             Console.WriteLine($"OFF button pressed for slot {slot}");
         }
-        // This method must call the UndoCommand.Undo() method
+
+        // Undo only the last command executed in that slot
         public void UndoButtonWasPushed(int slot)
         {
-            undoCommand.Undo();
-            Console.WriteLine($"UNDO button pressed for slot {slot}");
+            Console.WriteLine($"UNDO button pressed for slot {slot}...");
+            lastCommands[slot].Undo(); //Calls the command’s Undo()
         }
-        // Overwritten ToString() to print out each slot and its corresponding command.
+
+        // Prints all slots and their assigned commands
         public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
-            sb.Append("\n----- Remote Control ----- \n");
-            for(int i = 0;i < onCommands.Length;i++)
+            sb.Append("\n----- Remote Control -----\n");
+            for (int i = 0; i < onCommands.Length; i++)
             {
-                sb.Append("[slot " + i + "] "+ onCommands[i] + " \t  " + offCommands[i] + "\n");
+                sb.Append($"[slot {i}] {onCommands[i].GetType().Name} \t {offCommands[i].GetType().Name}\n");
             }
             return sb.ToString();
         }

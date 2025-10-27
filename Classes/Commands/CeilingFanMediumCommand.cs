@@ -18,11 +18,14 @@ namespace CommandPattern.Classes.Commands
 
         public void Execute()
         {
+            ceilingFan.Medium();
+            Console.WriteLine($"Ceiling Fan speed set to MEDIUM");
         }
 
         public void Undo()
-        {
-           
+        {   
+            ceilingFan.Off();
+            Console.WriteLine("Undo: Ceiling Fan turned OFF.");
         }
     }
 }
