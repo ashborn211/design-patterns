@@ -7,56 +7,72 @@
       "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\ceilingfanoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\ceilingfanoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\ceilingfanhighcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\ceilingfanhighcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\ceilingfanmediumcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\ceilingfanmediumcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\ceilingfanlowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\ceilingfanlowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\stereo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\stereo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\nocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\nocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\ceilingfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\ceilingfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\stereooffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\stereooffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\stereocyclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\stereocyclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\remotecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\stereo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\stereo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\stereoonwithradiocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\stereoonwithradiocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\stereoonwithdvdcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\stereoonwithdvdcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\stereoonwithcdcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\stereoonwithcdcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\garagedoorupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\garagedoorupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\stereooffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\stereooffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\ceilingfancyclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\ceilingfancyclecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\interfaces\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:interfaces\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\ceilingfanoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\ceilingfanoffcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\ceilingfanmediumcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\ceilingfanmediumcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\ceilingfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\ceilingfan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\ceilingfanlowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\ceilingfanlowcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\ceilingfanhighcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\ceilingfanhighcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\macrocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\nocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\nocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\garagedoorupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|solutionrelative:classes\\commands\\garagedoorupcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{45C5EAC7-70E5-427B-B1A4-FEF9F3770200}|CommandPattern.csproj|c:\\users\\velic\\onedrive\\documenten\\design-patterns\\design-patterns\\classes\\commands\\lightoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,20 +110,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MacroCommand.cs",
-              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\MacroCommand.cs",
-              "RelativeDocumentMoniker": "Classes\\Commands\\MacroCommand.cs",
-              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\MacroCommand.cs",
-              "RelativeToolTip": "Classes\\Commands\\MacroCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "CeilingFanCycleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanCycleCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\CeilingFanCycleCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanCycleCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\CeilingFanCycleCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:33:14.974Z",
+              "WhenOpened": "2025-10-27T13:20:51.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "NoCommand.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\NoCommand.cs",
               "RelativeDocumentMoniker": "Classes\\Commands\\NoCommand.cs",
@@ -115,38 +131,37 @@
               "RelativeToolTip": "Classes\\Commands\\NoCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:33:13.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-27T12:33:13.054Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "CeilingFan.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\CeilingFan.cs",
               "RelativeDocumentMoniker": "Classes\\CeilingFan.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\CeilingFan.cs",
               "RelativeToolTip": "Classes\\CeilingFan.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T11:26:51.849Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "RemoteControl.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\RemoteControl.cs",
               "RelativeDocumentMoniker": "Classes\\RemoteControl.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\RemoteControl.cs",
               "RelativeToolTip": "Classes\\RemoteControl.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowDYAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T11:26:49.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "Command.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Interfaces\\Command.cs",
               "RelativeDocumentMoniker": "Interfaces\\Command.cs",
@@ -165,111 +180,162 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAADQAAAAAAAAAAAAgwE8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwDMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T11:19:45.012Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MacroCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\MacroCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\MacroCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\MacroCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\MacroCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:33:14.974Z"
             }
           ]
         },
         {
           "DockedWidth": 167,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CeilingFanMediumCommand.cs",
-              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanMediumCommand.cs",
-              "RelativeDocumentMoniker": "Classes\\Commands\\CeilingFanMediumCommand.cs",
-              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanMediumCommand.cs",
-              "RelativeToolTip": "Classes\\Commands\\CeilingFanMediumCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-27T12:34:58.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CeilingFanOffCommand.cs",
-              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanOffCommand.cs",
-              "RelativeDocumentMoniker": "Classes\\Commands\\CeilingFanOffCommand.cs",
-              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanOffCommand.cs",
-              "RelativeToolTip": "Classes\\Commands\\CeilingFanOffCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "Title": "StereoCycleCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoCycleCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\StereoCycleCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoCycleCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\StereoCycleCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:39:08.325Z",
+              "WhenOpened": "2025-10-27T14:25:11.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CeilingFanHighCommand.cs",
-              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanHighCommand.cs",
-              "RelativeDocumentMoniker": "Classes\\Commands\\CeilingFanHighCommand.cs",
-              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanHighCommand.cs",
-              "RelativeToolTip": "Classes\\Commands\\CeilingFanHighCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "StereoOnWithDvdCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOnWithDvdCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\StereoOnWithDvdCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOnWithDvdCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\StereoOnWithDvdCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:37:46.495Z",
+              "WhenOpened": "2025-10-27T13:06:36.016Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CeilingFanLowCommand.cs",
-              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanLowCommand.cs",
-              "RelativeDocumentMoniker": "Classes\\Commands\\CeilingFanLowCommand.cs",
-              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanLowCommand.cs",
-              "RelativeToolTip": "Classes\\Commands\\CeilingFanLowCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T12:38:52.953Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Stereo.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Stereo.cs",
               "RelativeDocumentMoniker": "Classes\\Stereo.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Stereo.cs",
               "RelativeToolTip": "Classes\\Stereo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T11:26:48.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StereoOffCommand.cs",
-              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOffCommand.cs",
-              "RelativeDocumentMoniker": "Classes\\Commands\\StereoOffCommand.cs",
-              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOffCommand.cs",
-              "RelativeToolTip": "Classes\\Commands\\StereoOffCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T11:37:26.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 6,
               "Title": "StereoOnWithCdCommand.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOnWithCdCommand.cs",
               "RelativeDocumentMoniker": "Classes\\Commands\\StereoOnWithCdCommand.cs",
               "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOnWithCdCommand.cs",
               "RelativeToolTip": "Classes\\Commands\\StereoOnWithCdCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-23T11:38:00.196Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
+              "Title": "StereoOnWithRadioCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOnWithRadioCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\StereoOnWithRadioCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOnWithRadioCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\StereoOnWithRadioCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T13:06:52.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StereoOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOffCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\StereoOffCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\StereoOffCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\StereoOffCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T11:37:26.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CeilingFanOffCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanOffCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\CeilingFanOffCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanOffCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\CeilingFanOffCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:39:08.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CeilingFanMediumCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanMediumCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\CeilingFanMediumCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanMediumCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\CeilingFanMediumCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T12:34:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CeilingFanLowCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanLowCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\CeilingFanLowCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanLowCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\CeilingFanLowCommand.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:38:52.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CeilingFanHighCommand.cs",
+              "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanHighCommand.cs",
+              "RelativeDocumentMoniker": "Classes\\Commands\\CeilingFanHighCommand.cs",
+              "ToolTip": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\CeilingFanHighCommand.cs",
+              "RelativeToolTip": "Classes\\Commands\\CeilingFanHighCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-23T12:37:46.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "GarageDoorUpCommand.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\GarageDoorUpCommand.cs",
               "RelativeDocumentMoniker": "Classes\\Commands\\GarageDoorUpCommand.cs",
@@ -277,12 +343,11 @@
               "RelativeToolTip": "Classes\\Commands\\GarageDoorUpCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-23T11:36:53.539Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-23T11:36:53.539Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Light.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Light.cs",
               "RelativeDocumentMoniker": "Classes\\Light.cs",
@@ -294,7 +359,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "GarageDoor.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\GarageDoor.cs",
               "RelativeDocumentMoniker": "Classes\\GarageDoor.cs",
@@ -306,7 +371,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "LightOnCommand.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\LightOnCommand.cs",
               "RelativeDocumentMoniker": "Classes\\Commands\\LightOnCommand.cs",
@@ -318,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "LightOffCommand.cs",
               "DocumentMoniker": "C:\\Users\\velic\\OneDrive\\Documenten\\design-patterns\\design-patterns\\Classes\\Commands\\LightOffCommand.cs",
               "RelativeDocumentMoniker": "Classes\\Commands\\LightOffCommand.cs",

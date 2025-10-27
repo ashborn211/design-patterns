@@ -21,7 +21,7 @@ namespace CommandPattern.Classes.Commands
         public void Undo()
         {
             stereo.On();
-            stereo.SetCD();
+            stereo.SetDVD();
             stereo.SetVolume(11);
         }
     }

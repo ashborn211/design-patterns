@@ -23,9 +23,28 @@ namespace CommandPattern.Classes.Commands
         }
 
         public void Undo()
-        {   
-            ceilingFan.Off();
-            Console.WriteLine("Undo: Ceiling Fan turned OFF.");
+        {
+            prevSpeed = ceilingFan.GetSpeed();
+            if (prevSpeed == ceilingFan.HIGH)
+            {
+                ceilingFan.High();
+                Console.WriteLine("Undo: Ceiling Fan restored to HIGH.");
+            }
+            else if (prevSpeed == ceilingFan.MEDIUM)
+            {
+                ceilingFan.Medium();
+                Console.WriteLine("Undo: Ceiling Fan restored to MEDIUM.");
+            }
+            else if (prevSpeed == ceilingFan.LOW)
+            {
+                ceilingFan.Low();
+                Console.WriteLine("Undo: Ceiling Fan restored to LOW.");
+            }
+            else
+            {
+                ceilingFan.Off();
+                Console.WriteLine("Undo: Ceiling Fan remains OFF.");
+            }
         }
     }
 }

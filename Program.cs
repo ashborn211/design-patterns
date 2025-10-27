@@ -32,7 +32,7 @@ namespace CommandPattern
             LightOnCommand livingRoomLightOn = new LightOnCommand(livingRoomLight);
             LightOffCommand livingRoomLightOff = new LightOffCommand(livingRoomLight);
 
-            CeilingFanHighCommand livingRoomCeilingFanHigh = new CeilingFanHighCommand(livingRoomCeilingFan);
+            CeilingFanCycleCommand livingRoomCeilingFanCycle = new CeilingFanCycleCommand(livingRoomCeilingFan);
             CeilingFanOffCommand livingRoomCeilingFanOff = new CeilingFanOffCommand(livingRoomCeilingFan);
 
             GarageDoorUpCommand garageDoorOpen = new GarageDoorUpCommand(garageDoor);
@@ -53,7 +53,7 @@ namespace CommandPattern
              */
             remoteControl.SetCommand(1, livingRoomLightOn, livingRoomLightOff);
             remoteControl.SetCommand(2, kitchenLightOn, kitchenLightOff);
-            remoteControl.SetCommand(3, livingRoomCeilingFanHigh, livingRoomCeilingFanOff);
+            remoteControl.SetCommand(3, livingRoomCeilingFanCycle, livingRoomCeilingFanOff);
             remoteControl.SetCommand(4, garageDoorOpen, garageDoorClose);
             remoteControl.SetCommand(5, stereoOnWithCD, stereoOff);
 
@@ -69,6 +69,9 @@ namespace CommandPattern
 
             remoteControl.OnButtonWasPushed(3);
             remoteControl.OffButtonWasPushed(3);
+            remoteControl.OnButtonWasPushed(3);
+            remoteControl.OnButtonWasPushed(3);
+            remoteControl.OnButtonWasPushed(3);
 
             remoteControl.OnButtonWasPushed(4);
             remoteControl.OffButtonWasPushed(4);
@@ -76,12 +79,21 @@ namespace CommandPattern
             remoteControl.OnButtonWasPushed(5);
             remoteControl.OffButtonWasPushed(5);
 
-            remoteControl.UndoButtonWasPushed(1);
-            remoteControl.UndoButtonWasPushed(2);
-            remoteControl.UndoButtonWasPushed(3);
-            remoteControl.UndoButtonWasPushed(4);
-            remoteControl.UndoButtonWasPushed(5);
-
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed(); 
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+               remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed(); 
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
         }
     }
 }

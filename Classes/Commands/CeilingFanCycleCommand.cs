@@ -1,23 +1,45 @@
-﻿using CommandPattern.Interfaces;
-using System;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using CommandPattern.Interfaces;
 
 namespace CommandPattern.Classes.Commands
 {
-    internal class CeilingFanOffCommand : Command
+    internal class CeilingFanCycleCommand : Command
     {
         private CeilingFan ceilingFan;
-        private int prevSpeed;
-        public CeilingFanOffCommand(CeilingFan ceilingFan)
+        int prevSpeed;
+
+        public CeilingFanCycleCommand(CeilingFan ceilingFan)
         {
             this.ceilingFan = ceilingFan;
         }
 
         public void Execute()
         {
-            // Record previous speed before turning off
             prevSpeed = ceilingFan.GetSpeed();
-            ceilingFan.Off();
-            Console.WriteLine("Ceiling Fan turned OFF.");
+            if (prevSpeed == ceilingFan.HIGH)
+            {
+                ceilingFan.Low();
+                Console.WriteLine($"Ceiling Fan speed set to LOW");
+            }
+            else if (prevSpeed == ceilingFan.MEDIUM)
+            {
+                ceilingFan.High();
+                Console.WriteLine($"Ceiling Fan speed set to HIGH");
+            }
+            else if (prevSpeed == ceilingFan.LOW)
+            {
+                ceilingFan.Medium();
+                Console.WriteLine($"Ceiling Fan speed set to MEDIUM");
+            }
+            else
+            {
+                ceilingFan.Low();
+                Console.WriteLine($"Ceiling Fan speed set to LOW");
+            }
         }
 
         public void Undo()
@@ -45,4 +67,5 @@ namespace CommandPattern.Classes.Commands
             }
         }
     }
+
 }
