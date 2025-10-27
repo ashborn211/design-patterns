@@ -57,3 +57,18 @@ C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net
 C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\CommandPattern.pdb
 C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
 C:\Users\velic\OneDrive\Documenten\design-patterns\design-patterns\obj\Debug\net6.0\ref\CommandPattern.dll
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\CommandPattern.exe
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\CommandPattern.deps.json
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\CommandPattern.runtimeconfig.json
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\CommandPattern.dll
+C:\Users\velic\Documents\design patterns\bin\Debug\net6.0\CommandPattern.pdb
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\CommandPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\CommandPattern.AssemblyInfoInputs.cache
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\CommandPattern.AssemblyInfo.cs
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\CommandPattern.csproj.CoreCompileInputs.cache
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\CommandPattern.sourcelink.json
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\CommandPattern.dll
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\refint\CommandPattern.dll
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\CommandPattern.pdb
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\CommandPattern.genruntimeconfig.cache
+C:\Users\velic\Documents\design patterns\obj\Debug\net6.0\ref\CommandPattern.dll

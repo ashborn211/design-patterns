@@ -14,7 +14,7 @@ namespace CommandPattern.Classes.Commands
         {
             this.stereo = stereo;
             undoStack = new Stack<string>();
-            currentMode = "Off"; // Initial mode
+            currentMode = "CD"; // Start with CD mode by default
         }
 
         public void Execute()
@@ -25,14 +25,6 @@ namespace CommandPattern.Classes.Commands
             // Cycle to the next mode
             switch (currentMode)
             {
-                case "Off":
-                    stereo.On();
-                    stereo.SetCD();
-                    stereo.SetVolume(11);
-                    currentMode = "CD";
-                    Console.WriteLine("Stereo set to CD mode");
-                    break;
-
                 case "CD":
                     stereo.On();
                     stereo.SetDVD();
@@ -51,9 +43,11 @@ namespace CommandPattern.Classes.Commands
 
                 case "Radio":
                 default:
-                    stereo.Off();
-                    currentMode = "Off";
-                    Console.WriteLine("Stereo turned OFF");
+                    stereo.On();
+                    stereo.SetCD();
+                    stereo.SetVolume(11);
+                    currentMode = "CD";
+                    Console.WriteLine("Stereo set to CD mode");
                     break;
             }
         }
@@ -70,12 +64,6 @@ namespace CommandPattern.Classes.Commands
 
             switch (lastMode)
             {
-                case "Off":
-                    stereo.Off();
-                    currentMode = "Off";
-                    Console.WriteLine("Undo: Stereo turned OFF");
-                    break;
-
                 case "CD":
                     stereo.On();
                     stereo.SetCD();

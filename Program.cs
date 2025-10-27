@@ -38,7 +38,7 @@ namespace CommandPattern
             GarageDoorUpCommand garageDoorOpen = new GarageDoorUpCommand(garageDoor);
             GarageDoorDownCommand garageDoorClose = new GarageDoorDownCommand(garageDoor);
 
-            StereoOnWithCdCommand stereoOnWithCD = new StereoOnWithCdCommand(stereo);
+            StereoCycleCommand stereoCycle = new StereoCycleCommand(stereo);
             StereoOffCommand stereoOff = new StereoOffCommand(stereo);
 
 
@@ -55,7 +55,7 @@ namespace CommandPattern
             remoteControl.SetCommand(2, kitchenLightOn, kitchenLightOff);
             remoteControl.SetCommand(3, livingRoomCeilingFanCycle, livingRoomCeilingFanOff);
             remoteControl.SetCommand(4, garageDoorOpen, garageDoorClose);
-            remoteControl.SetCommand(5, stereoOnWithCD, stereoOff);
+            remoteControl.SetCommand(5, stereoCycle, stereoOff);
 
             Console.WriteLine(remoteControl);
 
@@ -77,7 +77,10 @@ namespace CommandPattern
             remoteControl.OffButtonWasPushed(4);
 
             remoteControl.OnButtonWasPushed(5);
+            remoteControl.OnButtonWasPushed(5);
             remoteControl.OffButtonWasPushed(5);
+            remoteControl.OnButtonWasPushed(5);
+            remoteControl.OnButtonWasPushed(5);
 
             remoteControl.UndoButtonWasPushed();
             remoteControl.UndoButtonWasPushed(); 
@@ -89,7 +92,7 @@ namespace CommandPattern
             remoteControl.UndoButtonWasPushed();
             remoteControl.UndoButtonWasPushed();
             remoteControl.UndoButtonWasPushed();
-               remoteControl.UndoButtonWasPushed();
+            remoteControl.UndoButtonWasPushed();
             remoteControl.UndoButtonWasPushed(); 
             remoteControl.UndoButtonWasPushed();
             remoteControl.UndoButtonWasPushed();
